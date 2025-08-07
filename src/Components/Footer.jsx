@@ -5,8 +5,7 @@ import { FaWhatsapp } from 'react-icons/fa';
 const Footer = () => {
   const socialLinks = [
     { icon: <FiGithub size={20} />, url: "https://github.com/Bisendo" },
-    { icon: <FiLinkedin size={20} />, url: "#" },
-    { icon: <FiTwitter size={20} />, url: "#" },
+    { icon: <FiLinkedin size={20} />, url: "https://www.linkedin.com/in/bidaus-kimoto-606690263/" },
     { icon: <FiMail size={20} />, url: "mailto:kimotobidaus@gmail.com" },
     { icon: <FaWhatsapp size={20} />, url: "https://wa.me/255747617575" },
   ];
