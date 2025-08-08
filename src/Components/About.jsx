@@ -12,16 +12,8 @@ const About = () => {
       institution: "University of Dar es Salaam",
       period: "11/2022 - 11/2023"
     },
-    {
-      degree: "Secondary Education",
-      institution: "Abuuy Jumaa Secondary School",
-      period: "2018 - 2021"
-    },
-    {
-      degree: "Primary Education",
-      institution: "Kipunguni Primary School",
-      period: "2011 - 2017"
-    }
+   
+    
   ];
 
   const languages = [
